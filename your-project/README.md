@@ -3,7 +3,9 @@
 # Peanut Publishing: Business Intelligence Report for a New Publishing Company
 *Maria João Silva*
 
-*Data Squad 32, Ironhack Lisbon Campus, November 2019*
+*Data Squad 32<br>
+Ironhack Lisbon Campus<br>
+November 2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,7 +18,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-This project intends to present a brief business intelligence report for an hypothetical publishing company that's starting business, offering insights into reader preferences to help select a target audience and potentially outline a sale-optimisation strategy. I chose this subject because I have some knowledge of editorial practices from previous works that I have done.
+This project intends to present a brief business intelligence report for an hypothetical publishing company that's starting business, offering insights into reader preferences to help select a target audience and potentially outline a sale-optimisation strategy. I chose this subject because I have some knowledge of editorial practices from previous work experience.
 
 <a name="hypotheses-/-questions"></a>
 
