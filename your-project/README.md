@@ -16,7 +16,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-This project intends to present a brief business intelligence report for an hypothetical publishing company that's starting business, offering insights into reader preferences to potentially outline a sale-optimisation strategy. I chose this subject because I have some knowledge of editorial practices from previous works that I have done.
+This project intends to present a brief business intelligence report for an hypothetical publishing company that's starting business, offering insights into reader preferences to help select a target audience and potentially outline a sale-optimisation strategy. I chose this subject because I have some knowledge of editorial practices from previous works that I have done.
 
 <a name="hypotheses-/-questions"></a>
 
@@ -50,7 +50,6 @@ I organised my work using a Trello board, where I set deadlines and checklists f
 <a name="links"></a>
 
 ## Links
-
 [Repository](https://github.com/mjvsilva/Project-Week-4/)  
 [Slides](https://www.canva.com/design/DADseRDV2dw/_2_hzR80LjhU3WICNDwcjg/view?utm_content=DADseRDV2dw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
 [Trello](https://trello.com/b/utVt9RdT/project-week-4)  
